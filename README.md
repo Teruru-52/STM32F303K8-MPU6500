@@ -1,1 +1,1 @@
-# STM32F303K8-MPU6500
+# practice-STM32
